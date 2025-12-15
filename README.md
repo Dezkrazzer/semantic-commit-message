@@ -2,6 +2,8 @@
 
 Panduan lengkap tentang **Semantic Commit Message** - standar untuk menulis pesan commit yang konsisten, terstruktur, dan mudah dipahami.
 
+> © [Dezkrazzer](https://github.com/Dezkrazzer)
+
 ## 📋 Daftar Isi
 
 - [Pengenalan](#pengenalan)
