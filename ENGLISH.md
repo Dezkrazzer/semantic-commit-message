@@ -1,5 +1,7 @@
 # Semantic Commit Message
 
+### Cari yang Bahasa Indonesia? [Cek Disini!](https://github.com/Dezkrazzer/semantic-commit-message/blob/main/README.md)
+
 A complete guide to **Semantic Commit Message** — a convention for writing consistent, structured, and easy-to-understand commit messages.
 
 > © [Dezkrazzer](https://github.com/Dezkrazzer)
