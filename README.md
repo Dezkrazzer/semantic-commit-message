@@ -1,4 +1,6 @@
-# Semantic Commit Message
+# Semantic Commit Message 
+
+### Looking for English Version? Check
 
 Panduan lengkap tentang **Semantic Commit Message** - standar untuk menulis pesan commit yang konsisten, terstruktur, dan mudah dipahami.
 
