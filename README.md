@@ -1,6 +1,6 @@
 # Semantic Commit Message 
 
-### Looking for English Version? Check
+### Looking for English Version? [Check here](https://github.com/Dezkrazzer/semantic-commit-message/blob/main/ENGLISH.md)
 
 Panduan lengkap tentang **Semantic Commit Message** - standar untuk menulis pesan commit yang konsisten, terstruktur, dan mudah dipahami.
 
